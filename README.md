@@ -1,2 +1,3 @@
 # Generate_Fashion_Using_Various_GANS
-used fashion minst data
+Fashion minst data
+![FASHION MNIST](gans.png)
